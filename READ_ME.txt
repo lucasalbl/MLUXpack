@@ -1,7 +1,7 @@
 Heya! This is the "official" modpack of the MLUX server. Most of these mods are simply replacements for optifine, so things like better looking grass, connected textures and most importantly way better performance (even better than optifine!). This pack also includes SimpleVoiceChat and it will be expanded with any future mods we might add to the server. Why release this as a modpack instead of just linking people to the mods? Because curseforge is an annoying website and it's very easy to accidentally end up installing the wrong version of a mod (especially for SimpleVoiceChat!), so we release this pack as "tried and tested" for our server.
 
 INSTRUCTIONS:
-1. Open fabric-installer-0.10.2.jar (if it doesn't open, drag it out of this folder and into your downloads).
+1. Open fabric-installer-0.10.2.jar (if it doesn't open, drag it out of this folder, into your downloads and try again).
 
 2. Change minecraft version from 1.18.2 to 1.18.1.
 
@@ -9,13 +9,13 @@ INSTRUCTIONS:
 
 4. Open up the minecraft launcher.
 
-4. To the left of the play button it should say "fabric-loader-1.18.1". If it doesn't, try clicking on what it is saying (probably something like "Latest release" and change it over to the fabric loader.
+4. To the left of the play button it should say "fabric-loader-1.18.1". If it doesn't, try clicking on what it is saying (probably something like "Latest release") and change it over to the fabric loader.
 
 5. Start minecraft.
 
 6. When minecraft has started to the main menu, quit the game. This is needed for the fabric loader to initialise some files and folders it needs.
 
-7. locate your mods folder. For Windows this should be "%appdata%\.minecraft\" (remove the quotes and enter this in explorer). For MacOS it is "~/Library/Application Support/minecraft" press cmd+shift+G when in finder and paste the text between the quotes.
+7. locate your mods folder. For Windows this should be in "%appdata%\.minecraft\" (remove the quotes and enter this in explorer). For MacOS it is in "~/Library/Application Support/minecraft". Press cmd+shift+G when in finder and paste the text between the quotes.
 
 8. Copy all the mods from the "MLUXmods" folder to the "mods" folder in minecraft.
 
