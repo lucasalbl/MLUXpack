@@ -60,6 +60,7 @@ https://www.curseforge.com/minecraft/mc-mods/continuity
 https://www.curseforge.com/minecraft/mc-mods/starlight
 https://www.curseforge.com/minecraft/mc-mods/lithium
 https://www.curseforge.com/minecraft/mc-mods/lazydfu
+https://www.curseforge.com/minecraft/mc-mods/modmenu
 https://www.curseforge.com/minecraft/mc-mods/sodium
 https://modrinth.com/mod/ferrite-core
 https://modrinth.com/mod/fabric-api
