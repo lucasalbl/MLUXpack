@@ -1,1 +1,0 @@
-To the right of this text you will see "**Releases**". Click on the green "<span style="color:green">latest</span>" button and then on the "Source code (zip)" button to download the modpack to your computer. Further instructions on how to install will be in the "READ_ME.txt" file.
