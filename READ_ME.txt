@@ -39,10 +39,10 @@ INSTRUCTIONS:
 
 10.6 Boot up minecraft and it should work fine now.
 
-11. Go play minecraft! If you get any errors, or you don't understand a part of this guide, leave a message in the discord. Both a message in general or a DM to an admin are acceptible.
+11. The last thing you've got to do is to enable the continuity resource pack and tweak the settings of the mods to your liking. After this you should be ready to go! If you get any errors, or you don't understand a part of this guide, leave a message in the discord. Both a message in general or a DM to an admin are acceptible.
 
 Credits:
-We obviously didn't create the mods ourself, so what will follow is a link to every mod included in this pack. If you are wondering what a mod does you can follow the link and read the description on the website.
+We obviously didn't create the mods ourself, so what will follow is a link to every mod included in this pack. If you are wondering what a mod does you can follow the link and read the description on the website. You can also check out the mods links and settings (if applicable) in the "mods" menu which you can access from the homepage or from the pause menu.
 
 https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities
 https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen
