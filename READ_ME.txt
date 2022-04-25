@@ -1,5 +1,12 @@
 Heya! This is the "official" modpack of the MLUX server. Most of these mods are simply replacements for optifine, so things like better looking grass, connected textures and most importantly way better performance (even better than optifine!). This pack also includes SimpleVoiceChat and it will be expanded with any future mods we might add to the server. Why release this as a modpack instead of just linking people to the mods? Because curseforge is an annoying website and it's very easy to accidentally end up installing the wrong version of a mod (especially for SimpleVoiceChat!), so we release this pack as "tried and tested" for our server.
 
+
+
+IMPORTANT NOTE FOR MACOS USERS:
+At the current time SimpleVoiceChat seems to have some compatibility issue with (an)other mod(s) on macOS systems, meaning it won't fully work, and doing the quite complicated install will only make your experience worse. As our testing has proven inconclusive we recommend you to not install the mod (simply delete it from the "MLUXmods" folder before starting the instructions) and to use discord or another voice chat program until we figure out the issue / until the issue gets fixed by the developers of the mod. Sorry for the inconvenience!
+
+
+
 INSTRUCTIONS:
 1. Open fabric-installer-0.10.2.jar (if it doesn't open, drag it out of this folder, into your downloads and try again).
 
@@ -21,25 +28,7 @@ INSTRUCTIONS:
 
 9. Start the game again.
 
-10. This step will be for MacOS users only. Due to the permissions system on MacOS the SimpleVoiceChat mod will have to make adjustments to minecraft itself, so it can access the microphone. This will involve a window popping up, to which you must drag the minecraft launcher icon from the applications folder in finder. It should then automatically patch the game, so that it will correctly ask for microphone permissions.
-
-10. Note 1: When starting minecraft the game will ask for access to your keychain. This is because the change made by the mod has invalidated the game's "signature" which means it isn't being recognised as minecraft anymore. To make these popups stop appearing you need to enter your computer's password and press "always allow". Note that you will probably get some more of these popups (around six I think), as Mojang has multiple keys stored in the keychain, and each one needs to be allowed access to individually. Just keep entering your password and pressing "always allow" and they will seize after a while.
-
-10. Note 2: If after patching the launcher it asks you to patch again once you restarted the game you might have to delete the games signature manually. To do this follow these steps:
-
-10.1 Shut down any instance of minecraft or the minecraft launcher.
-
-10.2 Press cmd+space, type terminal and press enter.
-
-10.3 paste "codesign —-force --deep --sign - ". Do not press enter yet!
-
-10.4 Go to your applications folder in finder, right click on minecraft and hold alt (option). You should see copy change into copy "Minecraft" as Pathname. Click on this.
-
-10.5 Go back to terminal and press cmd+V to paste the path into the command. Press enter. There should be no obvious effect.
-
-10.6 Boot up minecraft and it should work fine now.
-
-11. The last thing you've got to do is to enable the continuity resource pack and tweak the settings of the mods to your liking. After this you should be ready to go! If you get any errors, or you don't understand a part of this guide, leave a message in the discord. Both a message in general or a DM to an admin are acceptible.
+10. The last thing you've got to do is to enable the continuity resource pack and tweak the settings of the mods to your liking. After this you should be ready to go! If you get any errors, or you don't understand a part of this guide, leave a message in the discord. Both a message in general or a DM to an admin are acceptible.
 
 Credits:
 We obviously didn't create the mods ourself, so what will follow is a link to every mod included in this pack. If you are wondering what a mod does you can follow the link and read the description on the website. You can also check out the mods links and settings (if applicable) in the "mods" menu which you can access from the homepage or from the pause menu.
